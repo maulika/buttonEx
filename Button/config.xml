@@ -7,10 +7,10 @@
 
     <!-- versionCode is optional and Android only -->
 
-    <name>News App</name>
+    <name>Button</name>
 
     <description>
-       Dragon News app
+       Home News app
     </description>
 
     <author href="https://build.phonegap.com" email="support@phonegap.com">
